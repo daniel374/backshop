@@ -5,14 +5,6 @@ r
 
 u
 
-d
-v
 
-## asdf
-g
-ghgf
-nu
-uk
 
-tet
-rsa
+lalalalala
