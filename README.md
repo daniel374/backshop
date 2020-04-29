@@ -1,8 +1,18 @@
 # backshop
-Aplicación con el objetivo de contactar a los vendedores de tiendas con los usuarios
+Aplicación con el objetivo de contactar a los vendedores de tiendas con los 
+p   
+r
 
-ajuste de prueba
+u
 
+d
+v
 
-ajustes entre ramas
-ajuste una nueva linea
+## asdf
+g
+ghgf
+nu
+uk
+
+tet
+rsa
